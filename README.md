@@ -20,7 +20,7 @@ Produces graph visualizations for mapping infrastructure
 Installation:
 
 
-go install -v github.com/owasp-amass/amass/v4/...@latest
+<pre>$ go install -v github.com/owasp-amass/amass/v4/...@latest  </pre>
 Repository:
 https://github.com/owasp-amass/amass
 
@@ -37,7 +37,7 @@ Useful for digital forensics and threat analysis
 
 Installation:
 
-git clone https://github.com/1aN0rmus/TekDefense-Automater.git
+<pre>$ git clone https://github.com/1aN0rmus/TekDefense-Automater.git  </pre>
 Repository:
 https://github.com/1aN0rmus/TekDefense-Automater
 
@@ -55,7 +55,7 @@ Brute-forces directories using wordlists
 Installation:
 
 
-git clone https://github.com/evyatarmeged/Raccoon
+<pre> $ git clone https://github.com/evyatarmeged/Raccoon </pre>
 Repository:
 https://github.com/evyatarmeged/Raccoon
 
@@ -72,6 +72,6 @@ Supports multiple export formats for integration
 
 Installation:
 
-git clone https://github.com/s0md3v/Photon
+<pre>$ git clone https://github.com/s0md3v/Photon  </pre>
 Repository:
 https://github.com/s0md3v/Photon
