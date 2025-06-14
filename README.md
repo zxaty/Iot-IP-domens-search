@@ -5,6 +5,7 @@ Overview
 Reconnaissance is a critical phase in penetration testing, red teaming, and vulnerability assessments. It provides insights into exposed infrastructure, misconfigurations, and assets that could be leveraged during an attack. The tools listed here streamline the process of collecting data from public and semi-public sources.
 
 1. OWASP Amass
+
 OWASP Amass is a comprehensive tool for DNS enumeration and attack surface mapping. It supports passive, active, and brute-force methods to identify subdomains and associated IP addresses.
 
 Key Features:
@@ -25,6 +26,7 @@ Repository:
 https://github.com/owasp-amass/amass
 
 2. Automater
+
 Automater is an OSINT tool designed to automate the collection of intelligence on IPs, URLs, and domains. It queries multiple public data sources and aggregates the findings into a report.
 
 Key Features:
@@ -42,6 +44,7 @@ Repository:
 https://github.com/1aN0rmus/TekDefense-Automater
 
 3. Raccoon
+
 Raccoon is a reconnaissance tool that performs subdomain enumeration, port scanning, and directory brute-forcing. It is lightweight and designed for quick recon workflows.
 
 Key Features:
@@ -60,6 +63,7 @@ Repository:
 https://github.com/evyatarmeged/Raccoon
 
 4. Photon
+
 Photon is a web crawler focused on collecting useful data from websites. It extracts URLs, emails, files, JavaScript endpoints, and form elements.
 
 Key Features:
